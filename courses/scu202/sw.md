@@ -100,7 +100,7 @@ Siku hizi, vivinjari vya wavuti viko kila mahali katika maisha yetu ya kila siku
 
 
 
-Kisha utagundua muhtasari wa injini na vivinjari vya utumiaji vya leo, faida na hasara zake, pamoja na mbinu bora za kulinda kuvinjari kwako iwezekanavyo.
+Kisha utagundua muhtasari wa injini na browser za utumiaji za leo, faida na hasara zake, pamoja na mbinu bora za kulinda kuvinjari kwako iwezekanavyo.
 
 
 
@@ -185,7 +185,7 @@ https://planb.network/courses/99c46148-7080-4915-a7e0-9df0e145cd47
 
 
 
-Kuvinjari mtandao mara nyingi ndio sehemu kuu ya matishio ya usalama wa mtandao. Katika SCU101, tuliona kwamba ni muhimu kukaa macho, hasa linapokuja suala la upakuaji. Pakua faili kutoka kwa vyanzo vinavyotegemeka pekee, na unapendelea programu huria, ambayo mara nyingi hunufaika kutokana na uwazi zaidi na udhibiti wa jumuiya.
+Kuvinjari mtandao mara nyingi ndio sehemu kuu ya matishio ya usalama wa mtandao. Katika SCU101, tuliona kwamba ni muhimu kukaa macho, hasa linapokuja suala la upakuaji. Pakua faili kutoka kwa vyanzo vinavyotegemeka pekee, na upendelee programu huria, ambayo mara nyingi hunufaika kutokana na uwazi zaidi na udhibiti wa jumuiya
 
 
 
