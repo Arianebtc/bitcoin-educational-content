@@ -3,7 +3,6 @@ name: Kuboresha usalama wako wa kibinafsi wa kidijitali
 goal: Weka mazingira salama, thabiti na yenye ufanisi ya kidijitali.
 objectives: 
 
-
   - Kuelewa jinsi mifumo ya uendeshaji ya kisasa inavyofanya kazi na ufanye chaguo sahihi
   - Pata uhuru wa kiufundi katika Linux
   - Tekeleza mazoea bora ya usalama kwenye kompyuta ya kibinafsi
