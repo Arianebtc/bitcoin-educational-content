@@ -7615,7 +7615,7 @@ https://planb.network/tutorials/computer-security/authentication/keepass-f8073bb
 - [Proton Pass](https://proton.me/pass)
 
 
-Imezinduliwa na timu ya Protoni (inayojulikana kwa Proton Mail na Proton Drive, miongoni mwa nyinginezo), Proton Pass inachanganya urahisi wa matumizi, usimbaji fiche wa mwanzo hadi mwisho na miundombinu ya Uswizi ambayo ni rafiki kwa faragha. Programu ya simu ya mkononi ni angavu, hukuruhusu kuongeza madokezo salama, na inasaidia ukamilishaji kiotomatiki. Ni mbadala bora kwa wale wanaotaka suluhu ya turnkey, bila kuwa na wasiwasi kuhusu usimamizi wa kiufundi.
+Imezinduliwa na timu ya Proton (inayojulikana kwa Proton Mail na Proton Drive, miongoni mwa nyinginezo), Proton Pass inachanganya urahisi wa matumizi, usimbaji fiche wa mwanzo hadi mwisho na miundombinu ya Uswizi ambayo ni rafiki kwa faragha. Programu ya simu ya mkononi ni angavu, hukuruhusu kuongeza madokezo salama, na inasaidia ukamilishaji kiotomatiki. Ni mbadala bora kwa wale wanaotaka suluhu ya turnkey, bila kuwa na wasiwasi kuhusu usimamizi wa kiufundi.
 
 
 ![Image](assets/fr/173.webp)
