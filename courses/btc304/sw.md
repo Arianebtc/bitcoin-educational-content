@@ -130,10 +130,10 @@ Hapa, tutachunguza mageuzi ya asili ya jumuiya yako: nini cha kufanya ikiwa inak
 
 
 
-** Sehemu ya 8: Kuleta Bitcoiners Pamoja **
+**Sehemu ya 8: Kuleta Bitcoiners Pamoja**
 
 
-Sehemu ya mwisho inaangazia kiini cha mradi wako: kuunganisha wapenda Bitcoin karibu na maono ya pamoja. Utajifunza jinsi ya kupanga mbinu yako ili kuvutia na kuhifadhi wanachama, kukabidhi majukumu ipasavyo, na kukuza jumuiya yako kwa njia endelevu.
+Sehemu ya mwisho inaangazia kiini cha mradi wako: kuunganisha Bitcoiners karibu na maono ya pamoja. Utajifunza jinsi ya kupanga mbinu yako ili kuvutia na kuhifadhi wanachama, kukabidhi majukumu ipasavyo, na kukuza jumuiya yako kwa njia endelevu.
 
 
 
@@ -174,7 +174,7 @@ Kuna sababu kadhaa za kuunda jumuiya ya Bitcoin:
 
 
 
-- Kujenga rika-kwa-rika: Mipango na miradi mingi hubuniwa, kujengwa, na kuendelezwa ndani ya jumuiya hizi.
+- Kujenga peer-to-peer: Mipango na miradi mingi hubuniwa, kujengwa, na kuendelezwa ndani ya jumuiya hizi.
 
 
 
@@ -196,7 +196,7 @@ Jumuiya za Bitcoin mara nyingi hufuata malengo mapana, hasa elimu kwa umma kuhus
 5. Tofauti za kimsingi kati ya Bitcoin na sarafu nyingine za crypto;
 
 
-Kwa kujenga "ngome" za kwanza za kesho, **Jumuiya za Bitcoin ulimwenguni pote hutumika kama ngome dhidi ya upotoshaji na udhibiti huku zikitoa msingi mzuri wa kujifunza mambo msingi ya Bitcoin**. Wanatoa wageni, hata wenye kutilia shaka, rasilimali na miunganisho inayohitajika ili kuchunguza uwezo wa kweli wa Bitcoin.
+Kwa kujenga "shield" za kwanza za kesho, **Jumuiya za Bitcoin ulimwenguni pote hutumika kama ngome dhidi ya upotoshaji na udhibiti huku zikitoa msingi mzuri wa kujifunza mambo msingi ya Bitcoin**. Wanatoa wageni, hata wenye kutilia shaka, rasilimali na miunganisho inayohitajika ili kuchunguza uwezo wa kweli wa Bitcoin.
 
 
 
@@ -204,7 +204,7 @@ Kwa kujenga "ngome" za kwanza za kesho, **Jumuiya za Bitcoin ulimwenguni pote hu
 
 
 
-Inafaa pia kuzingatia kwamba **jumuiya inaweza kuwepo mtandaoni kabisa**, iwe ni kikundi cha Telegram ("Bitcoin London"), kikundi cha Facebook ("Bitcoin Berlin"), seva ya Discord ("Bitcoin Madrid"), au hata orodha ya barua pepe ("Bitcoin Ufaransa").
+Inafaa pia kuzingatia kwamba **jumuiya inaweza kuwepo mtandaoni kabisa**, iwe ni kikundi cha Telegram ("Bitcoin London"), kikundi cha Facebook ("Bitcoin Berlin"), server ya Discord ("Bitcoin Madrid"), au hata orodha ya barua pepe ("Bitcoin Ufaransa").
 
 
 Kwa maneno mengine, **jumuiya haihitaji mikutano ya kimwili ili kustawi au kuzindua miradi. Kusudi lake kuu linabaki kuwa sawa: kushiriki, kujenga, na kuelimisha**.
@@ -218,7 +218,7 @@ Kwa maneno mengine, **jumuiya haihitaji mikutano ya kimwili ili kustawi au kuzin
 Kama ilivyotajwa awali, **mikutano kwa kawaida huja baada ya jumuiya kuanzishwa na kusaidia kuikamilisha**.
 
 
-Kadiri safari ya mpiga bitcoiner inavyoendelea, mara nyingi kunakuwa na hamu, au hata hitaji, **kukutana na kuingiliana ana kwa ana na wengine** kutoka kwa mfumo ikolojia sawa. Hii inaweza kutokana na kujisikia kutengwa au kutokuwa na mtu yeyote wa kuzungumza naye kuhusu Bitcoin katika maisha ya kila siku.
+Kadiri safari ya bitcoiner inavyoendelea, mara nyingi kunakuwa na hamu, au hata hitaji, **kukutana na kuingiliana ana kwa ana na wengine** kutoka kwa mfumo ikolojia sawa. Hii inaweza kutokana na kujisikia kutengwa au kutokuwa na mtu yeyote wa kuzungumza naye kuhusu Bitcoin katika maisha ya kila siku.
 
 
 Mikutano hutoa hali ya kibinafsi na ya kukaribisha zaidi kuliko simu za sauti au video za mtandaoni. Iwe **kwa kinywaji au mlo**, wanaunda maeneo yasiyo rasmi, rafiki ambapo watu wanaweza mawazo ya Exchange kwa uwazi na moja kwa moja.
@@ -233,7 +233,7 @@ Mikutano ya Bitcoin inaweza kutumika kwa madhumuni mengi:
 
 
 - Kujadili mada za kiufundi au miradi inayoendelea
-- Kusaidia bitcoiners mpya hatua kwa hatua kupiga mbizi zaidi katika ulimwengu wa Bitcoin
+- Kusaidia bitcoiners wapya hatua kwa hatua kupiga mbizi zaidi katika ulimwengu wa Bitcoin
 - Kutangaza miradi au mipango mipya
 - Kubadilishana nyenzo au vitabu
 - Inachunguza hali halisi katika muhtasari
@@ -335,7 +335,7 @@ Ikiwa lengo lako ni **kushiriki maarifa na kuelimisha watu kuhusu Bitcoin**, zin
 
 
 
-Ikiwa lengo lako ni kukutana na wanabitcoin wengine na kubadilishana uzoefu, unaweza kuchukua mbinu iliyotulia zaidi, kama vile kukutana kwa ajili ya kinywaji.
+Ikiwa lengo lako ni kukutana na bitcoiners wengine na kubadilishana uzoefu, unaweza kuchukua mbinu iliyotulia zaidi, kama vile kukutana kwa ajili ya kinywaji.
 
 Kwa njia hii, utaunda vifungo vya kijamii kwa urahisi zaidi. Hata hivyo, kumbuka daima kwamba **kunywa bia sio njia sahihi ya kujenga ulimwengu wa kesho**.
 
