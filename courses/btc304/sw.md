@@ -152,7 +152,7 @@ Je, uko tayari kujifunza jinsi ya kujenga jumuiya yenye nguvu na hai ya Bitcoin?
 
 
 
-Ingawa hakuna ufafanuzi madhubuti wa maneno haya katika mfumo ikolojia wa Bitcoin, jumuiya inaeleweka vyema kama kundi la watu wanaoshiriki mapenzi ya pamoja na kuwasiliana mara kwa mara.
+Ingawa hakuna ufafanuzi madhubuti wa maneno haya katika mfumo ikolojia wa Bitcoin, jumuiya inaeleweka kama kundi la watu wanaoshiriki malengo ya pamoja na kuwasiliana mara kwa mara.
 
 
 Mkutano, kwa upande mwingine, ni tukio linaloandaliwa na na kwa jumuiya hii, kwa madhumuni maalum. Mikutano kwa kawaida hufanyika mara tu jumuiya ikiwa tayari imeanzishwa.
@@ -359,7 +359,7 @@ Hata hivyo, kama tutakavyoona baadaye katika [Mifano ya miradi na mipango](https
 
 - Kuchanganya mtandao na uwasilishaji wa elimu juu ya dhana ya Bitcoin;
 - Panga onyesho la kitaalamu la suluhu za Bitcoin;
-- Mikakati ya mijadala kwa wafanyabiashara wa ndani wa kuchuja chungwa;
+- Mikakati ya mijadala kwa wafanyabiashara wa ndani wa kuchuja chungwa5794887;
 
 na kadhalika.
 
