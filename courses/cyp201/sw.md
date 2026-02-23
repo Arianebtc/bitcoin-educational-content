@@ -60,7 +60,7 @@ Jedwali hili linakupa tafsiri ya maneno muhimu ya Kiingereza yanayotumika, ili k
 
 | Kiingereza      | Tafsiri / Maelezo                                                                                  |
 | --------------- | -------------------------------------------------------------------------------------------------- |
-| *pubkey hash*   | Hashi ya ufunguo wa umma (inayotumika kutengeneza anuani ya Bitcoin).                               |
+| *pubkey hash*   | Hash ya ufunguo wa umma (inayotumika kutengeneza anuani ya Bitcoin).                               |
 | *public key*    | Ufunguo wa umma (hutumika kupokea fedha, umetokana na ufunguo wa faragha).                          |
 | *signature*     | Sahihi ya kidijitali (uthibitisho wa kicryptografia kuwa ujumbe umetoka kwa mwenye ufunguo wa faragha). |
 | *scriptPubKey*  | Script ya kufunga (inafafanua masharti ya kutumia output).                                          |
@@ -70,10 +70,10 @@ Jedwali hili linakupa tafsiri ya maneno muhimu ya Kiingereza yanayotumika, ili k
 | *output*        | Tokeo la muamala (linafafanua mpokeaji na kiasi).                                                   |
 | *transaction*   | Muamala wa Bitcoin (seti ya vigezo vya ingizo na matokeo vinavyohalalisha uhamisho).                |
 | *XOR*           | Opereta wa kimaantiki "AU ya kipekee", unaotumika kwenye baadhi ya mbinu za kicryptografia.        |
-| *HMAC*          | Nambari ya uthibitishaji wa ujumbe inayotegemea hashi na ufunguo wa siri.                          |
+| *HMAC*          | Nambari ya uthibitishaji wa ujumbe inayotegemea hash na ufunguo wa siri.                          |
 | *ECDSA*         | Algoriti ya sahihi ya kidijitali inayotumia mikunjo ya elliptic.                                    |
-| *hash*          | Hashi (alama ya kipekee na isiyobadilika ya data).                                                  |
-| *SigHash*       | Aina ya hashi ya sahihi (inafafanua sehemu za muamala zinazowekwa sahihi).                          |
+| *hash*          | Hash (alama ya kipekee na isiyobadilika ya data).                                                  |
+| *SigHash*       | Aina ya hash ya sahihi (inafafanua sehemu za muamala zinazowekwa sahihi).                          |
 | *HD Wallet*     | Walleti ya kithabiti ya kihierarkia (huzalisha funguo nyingi kutoka kwenye seed moja).             |
 | *Random Number* | Nambari ya kubahatisha (hutumika kuzalisha funguo za faragha salama).                               |
 | *State*         | Hali (thamani ya kati katika mchakato wa kicryptografia).                                           |
@@ -182,7 +182,7 @@ Kwa hivyo, upinzani dhidi ya taswira ya pili ni sawa na upinzani wa mgongano, is
 
 Chaguo za kukokotoa za Hash zinazotumika zaidi katika Bitcoin ni **SHA256** ("_Secure Hash Algorithm 256 bits"_). Iliyoundwa mwanzoni mwa miaka ya 2000 na NSA na kusawazishwa na NIST, inazalisha pato la 256-bit Hash.
 
-Kitendaji hiki Kina (depth)tumika katika vipengele vingi vya Bitcoin. Katika ngazi ya itifaki, inahusika katika utaratibu wa Proof-of-Work, ambapo hutumiwa kwa hashing mara mbili ili kutafuta mgongano wa sehemu kati ya kichwa cha kizuizi cha mgombea, kilichoundwa na Miner, na lengo la ugumu. Ikiwa mgongano huu wa sehemu utapatikana, kizuizi cha mgombea Kina (depth)kuwa halali na Kina (depth)weza kuongezwa kwa [Blockchain](https://planb.academy/resources/glossary/blockchain).
+Kitendaji hiki Kina (depth)tumika katika vipengele vingi vya Bitcoin. Katika ngazi ya itifaki, inahusika katika utaratibu wa Proof-of-Work, ambapo hutumiwa kwa hashng mara mbili ili kutafuta mgongano wa sehemu kati ya kichwa cha kizuizi cha mgombea, kilichoundwa na Miner, na lengo la ugumu. Ikiwa mgongano huu wa sehemu utapatikana, kizuizi cha mgombea Kina (depth)kuwa halali na Kina (depth)weza kuongezwa kwa [Blockchain](https://planb.academy/resources/glossary/blockchain).
 
 SHA256 pia inatumika katika ujenzi wa Merkle Tree, ambayo ni kikusanyiko Kina (depth)chotumika kurekodi shughuli kwenye vitalu. Muundo huu pia unapatikana katika itifaki ya [Utreexo](https://planb.academy/resources/glossary/utreexo), ambayo inaruhusu kupunguza ukubwa wa UTXO Set. Zaidi ya hayo, kwa kuanzishwa kwa [Taproot](https://planb.academy/resources/glossary/taproot) mwaka wa 2021, SHA256 inatumiwa katika [MAST](https://planb.academy/resources/glossary/mast) (_Merkelised Alternative [Script](https://planb.academy/resources/glossary/script) Tree_), ambayo inaruhusu kufichua tu masharti ya matumizi yanayotumika katika hati, bila kufichua chaguo zingine zinazowezekana. Pia hutumiwa katika hesabu ya vitambulisho vya shughuli, katika uhamisho wa pakiti juu ya mtandao wa P2P, katika saini za elektroniki ... Hatimaye, na hii ni ya riba hasa katika mafunzo haya, SHA256 hutumiwa katika ngazi ya maombi kwa ajili ya ujenzi wa wallet za Bitcoin na derivation ya address.
 
@@ -194,7 +194,7 @@ $$
 
 Zoezi hili la hashing mara mbili huongeza Layer ya ziada ya usalama dhidi ya mashambulizi fulani yanayoweza kutokea, ingawa SHA256 moja leo inachukuliwa kuwa salama kwa njia fiche.
 
-Kitendaji kingine cha hashi Kina (depth)chopatikana katika lugha ya Hati na Kina (depth)chotumiwa kupata address za kupokea ni chaguo la kukokotoa la [RIPEMD160](https://planb.academy/resources/glossary/ripemd160). Chaguo hili la kukokotoa hutoa 160-bit Hash (hivyo ni fupi kuliko SHA256). Kwa ujumla huunganishwa na SHA256 kuunda kitendakazi cha HASH160:
+Kitendaji kingine cha hash Kina (depth)chopatikana katika lugha ya Hati na Kina (depth)chotumiwa kupata address za kupokea ni chaguo la kukokotoa la [RIPEMD160](https://planb.academy/resources/glossary/ripemd160). Chaguo hili la kukokotoa hutoa 160-bit Hash (hivyo ni fupi kuliko SHA256). Kwa ujumla huunganishwa na SHA256 kuunda kitendakazi cha HASH160:
 
 $$
 \text{HASH160}(m) = \text{RIPEMD160}(\text{SHA256}(m))
