@@ -6,4 +6,4 @@ wrong_answers:
   - SHA256 kamwe haijaunganishwa na vitendaji vingine vya hashing
 explanation: |
   RIPEMD160 inazalisha heshi 160-bit, wakati SHA256 inazalisha heshi 256-bit.
-reviewed: false
+reviewed: true
