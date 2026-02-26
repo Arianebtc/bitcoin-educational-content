@@ -6,4 +6,4 @@ wrong_answers:
   - Kwa kusimba moja kwa moja katika base64
 explanation: |
   Anwani za Bech32 hutumia misimbo ya BCH kukokotoa hundi.
-reviewed: false
+reviewed: true
