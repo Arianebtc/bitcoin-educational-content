@@ -5,5 +5,5 @@ wrong_answers:
   - Biti hupangwa upya kwa nasibu
   - Kila Hash imehifadhiwa kwenye hifadhidata
 explanation: |
-  Operesheni kama vile ShR na XOR hufanya isiwezekane kurudi katika hali ya awali, na kuhakikisha kutoweza kutenduliwa.
-reviewed: false
+ Operesheni kama vile ShR na XOR hufanya isiwezekane kurudi katika hali ya awali, hivyo kuhakikisha kutoweza kutenduliwa.
+reviewed: true
