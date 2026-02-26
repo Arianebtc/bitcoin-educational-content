@@ -5,5 +5,5 @@ wrong_answers:
   - HASH256
   - SHA160
 explanation: |
-  HASH160 inachanganya alama za vidole SHA256 na RIPEMD160 hadi generate 160-bit, haswa kwa anwani za Bitcoin.
-reviewed: false
+  HASH160 inachanganya alama za vidole SHA256 na RIPEMD160 hadi generate 160-bit, haswa kwa address za Bitcoin.
+reviewed: true
