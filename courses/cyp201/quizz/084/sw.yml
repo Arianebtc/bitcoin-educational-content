@@ -3,7 +3,7 @@ answer: Funga UTXO kwenye scriptPubKey
 wrong_answers:
   - Fungua UTXO kwenye scriptSig
   - Ishara mwisho wa muamala
-  - Tambua kizuizi cha uthibitisho
+  - Tambua block ya uthibitisho
 explanation: |
   Bitcoin Address imepachikwa kwenye scriptPubKey ili kufunga UTXO. Inaamua hali muhimu za kufungua fedha.
-reviewed: false
+reviewed: true
