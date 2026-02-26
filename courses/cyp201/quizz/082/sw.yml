@@ -6,4 +6,4 @@ wrong_answers:
   - P2PK imekusudiwa kwa multisigs, wakati P2PKH ni hati rahisi.
 explanation: |
   P2PK hufunga pesa kwa ufunguo mbichi wa umma, ilhali P2PKH hutumia Hash ya ufunguo wa umma.
-reviewed: false
+reviewed: true
