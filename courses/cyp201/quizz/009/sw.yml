@@ -6,4 +6,4 @@ wrong_answers:
   - Ujenzi wa Knuth-Morris-Pratt
 explanation: |
   Ujenzi wa Merkle-Damgård huruhusu kubadilisha kitendakazi cha mgandamizo kuwa kitendakazi cha Hash kwa ujumbe wa urefu tofauti.
-reviewed: false
+reviewed: true
