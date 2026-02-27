@@ -5,5 +5,5 @@ wrong_answers:
   - 256 ka
   - 1024 ka
 explanation: |
-  SHA512 hutumia vitalu vya 128-byte, ambayo ni sawa na bits 1024, kwa mahesabu yake.
-reviewed: false
+  SHA512 hutumia blocks za 128-byte, ambayo ni sawa na bits 1024, kwa mahesabu yake.
+reviewed: true
