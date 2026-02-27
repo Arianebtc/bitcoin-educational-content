@@ -1,4 +1,4 @@
-question: Ni nini sifa kuu ya kuzidisha kwa scalar kwenye curve za mviringo?
+question: Ni nini sifa kuu ya kuzidisha kwa scalar kwenye elliptic curve?
 answer: Utendaji wa njia moja
 wrong_answers:
   - Inaweza kutenduliwa kwa urahisi
@@ -6,4 +6,4 @@ wrong_answers:
   - Muda mrefu sana kuhesabu
 explanation: |
   Kuzidisha kwa scalar kwenye mikunjo ya duaradufu ni kazi ya njia moja, inayofanya kutowezekana kupata ufunguo wa faragha kutoka kwa ufunguo wa umma.
-reviewed: false
+reviewed: true
