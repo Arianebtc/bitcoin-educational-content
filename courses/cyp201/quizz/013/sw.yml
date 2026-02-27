@@ -3,7 +3,7 @@ answer: generate seed ya HD Wallet
 wrong_answers:
   - Thibitisha shughuli
   - Simba funguo za faragha
-  - Unda anwani za Bitcoin
+  - Unda address za Bitcoin
 explanation: |
   PBKDF2 inatumika kupata seed kutoka kwa maneno ya Mnemonic na passphrase ya hiari.
-reviewed: false
+reviewed: true
