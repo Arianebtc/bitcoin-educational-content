@@ -5,5 +5,5 @@ wrong_answers:
   - Kwa sababu si sanifu
   - Kwa sababu inahitaji vifaa maalum
 explanation: |
-  Satoshi Nakamoto huenda alipendelea mkunjo wa secp256k1, kwa vile vigezo vya secp256r1 vinaweza kuwa na athari iliyofichwa.
-reviewed: false
+  Satoshi Nakamoto huenda alipendelea curve wa secp256k1, kwa vile vigezo vya secp256r1 vinaweza kuwa na athari iliyofichwa.
+reviewed: true
