@@ -1,4 +1,4 @@
-question: Ni hatua gani ya kawaida inayotumiwa na washiriki wote kukokotoa ufunguo wa umma katika Bitcoin?
+question: Ni hatua gani ya kawaida inayotumiwa na washiriki wote kukokotoa public key katika Bitcoin?
 answer: Sehemu ya jenereta G
 wrong_answers:
   - SHA256 Hash
@@ -6,4 +6,4 @@ wrong_answers:
   - Ufunguo wa umma uliobanwa
 explanation: |
   Sehemu ya jenereta G ya curve duaradufu secp256k1 inatumika kukokotoa funguo za umma kutoka kwa funguo za kibinafsi.
-reviewed: false
+reviewed: true
