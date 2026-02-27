@@ -1,9 +1,9 @@
 question: Ni aina gani ya ufunguo unaotumika kufunga UTXO kwenye Bitcoin?
-answer: Ufunguo wa umma
+answer: Public key
 wrong_answers:
-  - Ufunguo wa kibinafsi
+  - Private key
   - seed Hash
   - Maneno ya Mnemonic
 explanation: |
-  UTXO zimefungwa kwa ufunguo wa umma au Hash yake, na kufunguliwa kwa ufunguo wa kibinafsi unaofanana.
-reviewed: false
+  UTXO zimefungwa kwa public key au Hash yake, na kufunguliwa kwa ufunguo wa kibinafsi unaofanana.
+reviewed: true
