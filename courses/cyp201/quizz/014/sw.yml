@@ -6,4 +6,4 @@ wrong_answers:
   - 512
 explanation: |
   PBKDF2 hurudia mchakato wa HMAC-SHA512 mara 2048 ili kuimarisha usalama.
-reviewed: false
+reviewed: true
