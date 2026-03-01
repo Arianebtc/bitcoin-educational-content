@@ -5,5 +5,5 @@ wrong_answers:
   - RSA
   - HMAC
 explanation: |
-  Bitcoin hapo awali ilitumia ECDSA, itifaki ya sahihi kulingana na mikondo ya mviringo, kabla ya kuanzishwa kwa sahihi za Schnorr mnamo 2021.
-reviewed: false
+  Bitcoin hapo awali ilitumia ECDSA, protocol ya signature kulingana na mikondo ya mviringo, kabla ya kuanzishwa kwa sahihi za Schnorr mnamo 2021.
+reviewed: true
