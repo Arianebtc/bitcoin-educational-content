@@ -6,4 +6,4 @@ wrong_answers:
   - PRNG hutumia funguo za kibinafsi, TRNG hutumia funguo za umma.
 explanation: |
   PRNG ni za kubainisha, kumaanisha kwamba zinaweza kuzalisha mfuatano kutoka hali ya awali, tofauti na TRNG.
-reviewed: false
+reviewed: true
