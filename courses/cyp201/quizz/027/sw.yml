@@ -1,4 +1,4 @@
-question: Je, ni udhaifu gani wa sahihi wa ECDSA uliorekebishwa na SegWit?
+question: Je, ni udhaifu gani wa signature wa ECDSA uliorekebishwa na SegWit?
 answer: Uharibifu
 wrong_answers:
   - Uthibitishaji wa kundi
@@ -6,4 +6,4 @@ wrong_answers:
   - Saizi kubwa ya saini
 explanation: |
   SegWit ilirekebisha uharibikaji wa sahihi za ECDSA, na kuwezesha matumizi kama vile Lightning Network.
-reviewed: false
+reviewed: true
