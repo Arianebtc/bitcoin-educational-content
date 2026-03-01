@@ -1,4 +1,4 @@
-question: Kwa nini maelezo ni muhimu sana kwa pochi zenye saini nyingi?
+question: Kwa nini maelezo ni muhimu sana kwa waller zenye saini nyingi?
 answer: Zinajumuisha xpub ya kila kipengele na zinaelezea muundo wa saini nyingi
 wrong_answers:
   - Wanaondoa hitaji la kifungu cha Mnemonic
@@ -6,4 +6,4 @@ wrong_answers:
   - Wanafanya saini nyingi ziendane na hati zote
 explanation: |
   Vifafanuzi ni pamoja na funguo za umma zilizopanuliwa za washiriki wote, ambayo hurahisisha urejeshaji na usimamizi wa usanidi wa saini nyingi.
-reviewed: false
+reviewed: true
