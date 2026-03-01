@@ -6,4 +6,4 @@ wrong_answers:
   - Kwa njia ngumu ya utokaji
 explanation: |
   Nukuu /<0;1>/* inaonyesha kuwa kifafanuzi kinaweza anwani za generate za mnyororo wa nje (0) na wa ndani (1), pamoja na upataji wa shukrani unaofuata kwa kadi-mwitu (*).
-reviewed: false
+reviewed: true
