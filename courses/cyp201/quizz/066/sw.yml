@@ -1,4 +1,4 @@
-question: Ni sehemu gani ya pato la HMAC-SHA512 inatumika kama msimbo wa mnyororo wa watoto?
+question: Ni sehemu gani ya pato la HMAC-SHA512 inatumika kama msimbo wa child chain?
 answer: Baiti 32 za mwisho
 wrong_answers:
   - Baiti 32 za kwanza
@@ -6,4 +6,4 @@ wrong_answers:
   - SHA256 Hash ya kati baiti 32
 explanation: |
   Baiti 32 za mwisho za pato la HMAC-SHA512 hutumika kama msimbo wa mnyororo wa ufunguo wa mtoto.
-reviewed: false
+reviewed: true
