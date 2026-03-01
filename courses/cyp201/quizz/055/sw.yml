@@ -6,4 +6,4 @@ wrong_answers:
   - Sehemu nne za bits 128
 explanation: |
   Matokeo ya HMAC-SHA512 imegawanywa katika sehemu mbili: ufunguo wa kibinafsi wa bwana (256 bits) na msimbo wa mnyororo mkuu (256 bits).
-reviewed: false
+reviewed: true
