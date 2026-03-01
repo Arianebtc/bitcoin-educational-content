@@ -1,4 +1,4 @@
-question: Je, bendera ya sighash SIGHASH_NONE inaruhusu nini?
+question: Je, flag ya sighash SIGHASH_NONE inaruhusu nini?
 answer: Kurekebisha matokeo baada ya kusaini
 wrong_answers:
   - Kurekebisha pembejeo baada ya kusaini
@@ -6,4 +6,4 @@ wrong_answers:
   - Kuzuia marekebisho kwa pato moja tu
 explanation: |
   SIGHASH_NONE inashughulikia ingizo pekee, na kuacha matokeo yaweze kurekebishwa baada ya kutia sahihi.
-reviewed: false
+reviewed: true
