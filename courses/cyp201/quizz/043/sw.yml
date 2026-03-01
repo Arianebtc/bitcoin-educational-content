@@ -6,4 +6,4 @@ wrong_answers:
   - 64 bits
 explanation: |
   Neno la maneno 24 la Mnemonic linatokana na bits 256 za entropy, kuhakikisha usalama wa juu sana.
-reviewed: false
+reviewed: true
