@@ -6,4 +6,4 @@ wrong_answers:
   - Inabadilika kulingana na urefu wa maneno ya Mnemonic
 explanation: |
   Bila kujali urefu wa maneno ya Mnemonic, PBKDF2 daima huzalisha seed ya 512-bit.
-reviewed: false
+reviewed: true
