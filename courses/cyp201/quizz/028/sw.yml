@@ -1,4 +1,4 @@
-question: Ni saizi gani ya kitufe cha umma kilichobanwa kwa kutumia itifaki ya Schnorr?
+question: Ni saizi gani ya kitufe cha umma kilichobanwa kwa kutumia protocol ya Schnorr?
 answer: 32 ka
 wrong_answers:
   - 33 ka
@@ -6,4 +6,4 @@ wrong_answers:
   - 128 bits
 explanation: |
   Kitufe cha umma cha Schnorr kinawakilishwa tu na kiratibu cha x cha ncha kwenye curve ya duaradufu, ambayo hupunguza ukubwa wake hadi baiti 32.
-reviewed: false
+reviewed: true
