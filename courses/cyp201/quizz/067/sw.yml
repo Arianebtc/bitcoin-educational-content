@@ -1,4 +1,4 @@
-question: Madhumuni ya faharasa ni nini katika kupata funguo za watoto?
+question: Madhumuni ya faharasa ni nini katika kupata child key?
 answer: Tofautisha jozi muhimu za ndugu
 wrong_answers:
   - Tambua asili ya ufunguo (wa umma au wa faragha)
@@ -6,4 +6,4 @@ wrong_answers:
   - Ongeza Layer ya ziada ya usalama
 explanation: |
   Faharasa inaruhusu kutofautisha vitufe vya watoto vinavyotokana na jozi ya wazazi sawa.
-reviewed: false
+reviewed: true
