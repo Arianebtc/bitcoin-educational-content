@@ -6,4 +6,4 @@ wrong_answers:
   - HASH256
 explanation: |
   Hundi ya maneno ya Mnemonic huhesabiwa kwa kutumia SHA256 Hash rahisi kwenye entropy.
-reviewed: false
+reviewed: true
