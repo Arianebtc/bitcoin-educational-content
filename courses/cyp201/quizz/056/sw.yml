@@ -3,6 +3,6 @@ answer: Bitcoin seed
 wrong_answers:
   - Ufunguo Mkuu
   - HD Wallet seed
-  - Mzizi wa Blockchain
+  - Roots wa Blockchain
 explanation: |
   Bitcoin seed mara kwa mara hutumika kama ufunguo katika chaguo za kukokotoa za HMAC-SHA512 ili kupata ufunguo mkuu wa faragha na msimbo mkuu wa mnyororo.
