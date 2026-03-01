@@ -6,4 +6,4 @@ wrong_answers:
   - AES-256
 explanation: |
   seed inazalishwa kwa kutumia kazi ya PBKDF2 yenye marudio ya HMAC-SHA512 na 2048, kutoka kwa maneno ya Mnemonic na passphrase.
-reviewed: false
+reviewed: true
