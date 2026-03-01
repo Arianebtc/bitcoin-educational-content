@@ -5,5 +5,5 @@ wrong_answers:
   - 16 bits
   - 6 biti
 explanation: |
-  Urefu wa cheki huhesabiwa kwa kutumia fomula CS = ENT / 32, ambayo ni sawa na biti 4 kwa entropy ya biti 128.
-reviewed: false
+  Urefu wa cheksum huhesabiwa kwa kutumia fomula CS = ENT / 32, ambayo ni sawa na biti 4 kwa entropy ya biti 128.
+reviewed: true
