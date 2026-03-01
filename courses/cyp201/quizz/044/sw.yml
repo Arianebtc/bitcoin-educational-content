@@ -6,4 +6,4 @@ wrong_answers:
   - Mbinu ya ukandamizaji wa data
 explanation: |
   Katika cryptography, entropy hubainisha kiwango cha kutokuwa na uhakika au machafuko katika chanzo nasibu, muhimu kwa ajili ya kuzalisha funguo salama.
-reviewed: false
+reviewed: true
