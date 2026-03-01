@@ -6,4 +6,4 @@ wrong_answers:
   - SIGHASH_NONSTANDARD
 explanation: |
   SIGHASH_ANYONECANPAY hurekebisha alama za sighash ili kujumuisha ingizo moja pekee huku zikiacha zingine ziweze kurekebishwa.
-reviewed: false
+reviewed: true
