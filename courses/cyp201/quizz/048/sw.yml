@@ -2,8 +2,8 @@ question: Kwa nini maneno ya Mnemonic yenye maneno 24 mara nyingi huchukuliwa ku
 answer: Vifunguo vilivyotolewa vinatoa tu biti 128 za usalama
 wrong_answers:
   - Programu haitumii vifungu vya maneno 24
-  - Hairuhusu kupatikana kwa funguo za umma
+  - Hairuhusu kupatikana kwa public key
   - Maneno mafupi hayajasanifishwa
 explanation: |
   Ingawa kifungu cha maneno 24 kinatoa biti 256 za usalama, funguo za faragha za Bitcoin zinahakikisha biti 128 tu za usalama, na kufanya ziada isihitajike.
-reviewed: false
+reviewed: true
