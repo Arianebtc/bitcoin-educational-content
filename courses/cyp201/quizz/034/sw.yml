@@ -1,9 +1,9 @@
-question: Ni bendera gani ya sighash inayotumiwa sana katika shughuli za Bitcoin?
+question: Ni flag gani ya sighash inayotumiwa sana katika miamala ya Bitcoin?
 answer: SIGASH_ALL
 wrong_answers:
   - SIGHASH_NONE
   - SIGHASH_SINGLE
   - SIGHASH_ANYONECANPAY
 explanation: |
-  SIGHASH_ALL ndio bendera chaguo-msingi ya sighash, inayojumuisha ingizo na matokeo yote ya muamala, kuzuia marekebisho yoyote.
-reviewed: false
+  SIGHASH_ALL ndio flag chaguo-msingi ya sighash, inayojumuisha ingizo na matokeo yote ya muamala, kuzuia marekebisho yoyote.
+reviewed: true
