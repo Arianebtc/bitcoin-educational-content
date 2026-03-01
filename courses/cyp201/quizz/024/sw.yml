@@ -6,4 +6,4 @@ wrong_answers:
   - Biti 1024
 explanation: |
   Ufunguo wa kibinafsi katika Bitcoin ni nambari kamili ya 256-bit, inayohakikisha nafasi muhimu ya kutosha ili kuhakikisha usalama.
-reviewed: false
+reviewed: true
