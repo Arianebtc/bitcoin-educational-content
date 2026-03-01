@@ -5,5 +5,5 @@ wrong_answers:
   - 86h/0h/0h
   - 84/0/0
 explanation: |
-  Njia ya 84h/0h/0h imefafanuliwa katika BIP84 kwa akaunti inayopata anwani za SegWit v0 na P2WPKH.
-reviewed: false
+  Njia ya 84h/0h/0h imefafanuliwa katika BIP84 kwa akaunti inayopata address za SegWit v0 na P2WPKH.
+reviewed: true
