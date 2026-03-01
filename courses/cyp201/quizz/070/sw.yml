@@ -1,9 +1,9 @@
-question: Je, kina 0 kinawakilisha nini katika daraja la pochi za HD?
+question: Je, kina 0 kinawakilisha nini katika daraja la wallet za HD?
 answer: Ufunguo mkuu na msimbo mkuu wa mnyororo
 wrong_answers:
-  - Mlolongo wa nje wa anwani
+  - Mlolongo wa nje wa address
   - Akaunti ya msingi
   - Aina ya sarafu
 explanation: |
   Kina 0 kinalingana na ufunguo mkuu na msimbo mkuu wa mnyororo, ambazo ndizo sehemu za kuanzia kwa mito yote katika HD Wallet.
-reviewed: false
+reviewed: true
