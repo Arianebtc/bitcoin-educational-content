@@ -6,4 +6,4 @@ wrong_answers:
   - SIGASH_ALL
 explanation: |
   SIGHASH_ALL pamoja na SIGHASH_ANYONECANPAY inaruhusu kuongeza pembejeo bila kurekebisha matokeo.
-reviewed: false
+reviewed: true
