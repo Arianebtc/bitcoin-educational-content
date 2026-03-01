@@ -1,9 +1,9 @@
-question: Ufunguo uliopanuliwa wa umma unaruhusu kupata nini?
-answer: Funguo za kawaida za umma pekee za watoto
+question: Extended public key zinaruhusu kupata nini?
+answer: Child public keys za kawaida za pekee
 wrong_answers:
-  - Funguo za kibinafsi za watoto za kawaida pekee
-  - Funguo za umma ngumu na za kawaida za watoto
-  - Funguo za kibinafsi za watoto ngumu na za kawaida
+  - Child private keys za kawaida pekee
+  - hardened public keys na cild keys za kawaida 
+  - Private keys za hardened child key
 explanation: |
   Ufunguo uliopanuliwa wa umma huruhusu tu kupatikana kwa funguo za umma za watoto, si funguo za faragha au funguo ngumu.
-reviewed: false
+reviewed: true
