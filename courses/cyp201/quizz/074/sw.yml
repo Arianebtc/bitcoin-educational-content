@@ -6,4 +6,4 @@ wrong_answers:
   - Fedha ya Bitcoin Mainnet
 explanation: |
   Faharasa /84'/ imefafanuliwa katika BIP84 ili kuashiria matumizi ya kiwango cha SegWit v0 chenye anwani za P2WPKH katika kina cha 1 (kile cha lengo la kupata).
-reviewed: false
+reviewed: true
